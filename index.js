@@ -1,9 +1,17 @@
 // Write your code here
 
-const multiply
+const multiply = function(num1, num2) {
+  
+}
 
-const random
+const random = function(num1, num2) {
+  
+}
 
-const mod
+const mod = function(num1, num2) {
+  
+}
 
-const max
+const max = function(num1, num2) {
+  
+}
