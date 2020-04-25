@@ -1,6 +1,8 @@
 // Write your code here
 
-const multiply = function(num1 = 31, num2 = 2) {
+const multiply = function() {
+  let num1 = 31
+  let num2 = 2
   return num1 * num2
 }
 
